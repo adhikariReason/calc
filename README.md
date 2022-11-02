@@ -1,3 +1,3 @@
 # calc
 
-Hosted at: 
+Hosted at: https://adhikarireason.github.io/calc/calc.html
